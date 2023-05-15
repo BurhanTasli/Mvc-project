@@ -1,0 +1,352 @@
+Uri: https://www.eastmagic.com/
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\index.htm
+Content Type: text/html
+
+Uri: https://www.eastmagic.com/404.html
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\404.html
+Content Type: text/html
+
+Uri: https://www.eastmagic.com/blog-home-1.html
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\blog-home-1.html
+Content Type: text/html
+
+Uri: https://www.eastmagic.com/blog-post.html
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\blog-post.html
+Content Type: text/html
+
+Uri: https://www.eastmagic.com/contact.html
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\contact.html
+Content Type: text/html
+
+Uri: https://www.eastmagic.com/css/bootstrap.css
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://www.eastmagic.com/css/font-awesome.min.css
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://www.eastmagic.com/css/fonts/font-awesome/fontawesome-webfontba72.eot?v=4.0.3
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\font-awesome\fontawesome-webfontba72.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.eastmagic.com/css/fonts/font-awesome/fontawesome-webfontba72.svg?v=4.0.3
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\font-awesome\fontawesome-webfontba72.svg
+Content Type: image/svg+xml
+
+Uri: https://www.eastmagic.com/css/fonts/font-awesome/fontawesome-webfontba72.ttf?v=4.0.3
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\font-awesome\fontawesome-webfontba72.ttf
+Content Type: font/ttf
+
+Uri: https://www.eastmagic.com/css/fonts/font-awesome/fontawesome-webfontba72.woff?v=4.0.3
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\font-awesome\fontawesome-webfontba72.woff
+Content Type: font/woff
+
+Uri: https://www.eastmagic.com/css/fonts/font-awesome/fontawesome-webfontd41d.eot?
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\font-awesome\fontawesome-webfontd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.eastmagic.com/css/fonts/opensans/opensans-bold-webfont.eot
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\opensans\opensans-bold-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.eastmagic.com/css/fonts/opensans/opensans-bold-webfont.svg
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\opensans\opensans-bold-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.eastmagic.com/css/fonts/opensans/opensans-bold-webfont.ttf
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\opensans\opensans-bold-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://www.eastmagic.com/css/fonts/opensans/opensans-bold-webfont.woff
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\opensans\opensans-bold-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.eastmagic.com/css/fonts/opensans/opensans-bold-webfontd41d.eot?
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\opensans\opensans-bold-webfontd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.eastmagic.com/css/fonts/opensans/opensans-bolditalic-webfont.eot
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\opensans\opensans-bolditalic-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.eastmagic.com/css/fonts/opensans/opensans-bolditalic-webfont.svg
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\opensans\opensans-bolditalic-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.eastmagic.com/css/fonts/opensans/opensans-bolditalic-webfont.ttf
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\opensans\opensans-bolditalic-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://www.eastmagic.com/css/fonts/opensans/opensans-bolditalic-webfont.woff
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\opensans\opensans-bolditalic-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.eastmagic.com/css/fonts/opensans/opensans-bolditalic-webfontd41d.eot?
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\opensans\opensans-bolditalic-webfontd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.eastmagic.com/css/fonts/opensans/opensans-italic-webfont.eot
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\opensans\opensans-italic-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.eastmagic.com/css/fonts/opensans/opensans-italic-webfont.svg
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\opensans\opensans-italic-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.eastmagic.com/css/fonts/opensans/opensans-italic-webfont.ttf
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\opensans\opensans-italic-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://www.eastmagic.com/css/fonts/opensans/opensans-italic-webfont.woff
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\opensans\opensans-italic-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.eastmagic.com/css/fonts/opensans/opensans-italic-webfontd41d.eot?
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\opensans\opensans-italic-webfontd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.eastmagic.com/css/fonts/opensans/opensans-light-webfont.eot
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\opensans\opensans-light-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.eastmagic.com/css/fonts/opensans/opensans-light-webfont.svg
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\opensans\opensans-light-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.eastmagic.com/css/fonts/opensans/opensans-light-webfont.ttf
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\opensans\opensans-light-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://www.eastmagic.com/css/fonts/opensans/opensans-light-webfont.woff
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\opensans\opensans-light-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.eastmagic.com/css/fonts/opensans/opensans-light-webfontd41d.eot?
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\opensans\opensans-light-webfontd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.eastmagic.com/css/fonts/opensans/opensans-lightitalic-webfont.eot
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\opensans\opensans-lightitalic-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.eastmagic.com/css/fonts/opensans/opensans-lightitalic-webfont.svg
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\opensans\opensans-lightitalic-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.eastmagic.com/css/fonts/opensans/opensans-lightitalic-webfont.ttf
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\opensans\opensans-lightitalic-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://www.eastmagic.com/css/fonts/opensans/opensans-lightitalic-webfont.woff
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\opensans\opensans-lightitalic-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.eastmagic.com/css/fonts/opensans/opensans-lightitalic-webfontd41d.eot?
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\opensans\opensans-lightitalic-webfontd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.eastmagic.com/css/fonts/opensans/opensans-regular-webfont.eot
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\opensans\opensans-regular-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.eastmagic.com/css/fonts/opensans/opensans-regular-webfont.svg
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\opensans\opensans-regular-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.eastmagic.com/css/fonts/opensans/opensans-regular-webfont.ttf
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\opensans\opensans-regular-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://www.eastmagic.com/css/fonts/opensans/opensans-regular-webfont.woff
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\opensans\opensans-regular-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.eastmagic.com/css/fonts/opensans/opensans-regular-webfontd41d.eot?
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\opensans\opensans-regular-webfontd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.eastmagic.com/css/fonts/pacifico/pacifico-webfont.eot
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\pacifico\pacifico-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.eastmagic.com/css/fonts/pacifico/pacifico-webfont.svg
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\pacifico\pacifico-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.eastmagic.com/css/fonts/pacifico/pacifico-webfont.ttf
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\pacifico\pacifico-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://www.eastmagic.com/css/fonts/pacifico/pacifico-webfont.woff
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\pacifico\pacifico-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.eastmagic.com/css/fonts/pacifico/pacifico-webfontd41d.eot?
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\fonts\pacifico\pacifico-webfontd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.eastmagic.com/css/style.css
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\css\style.css
+Content Type: text/css
+
+Uri: https://www.eastmagic.com/faq.html
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\faq.html
+Content Type: text/html
+
+Uri: https://www.eastmagic.com/fonts/glyphicons-halflings-regular-2.html
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\fonts\glyphicons-halflings-regular-2.html
+Content Type: text/html
+
+Uri: https://www.eastmagic.com/fonts/glyphicons-halflings-regular-3.html
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\fonts\glyphicons-halflings-regular-3.html
+Content Type: text/html
+
+Uri: https://www.eastmagic.com/fonts/glyphicons-halflings-regular-4.html
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\fonts\glyphicons-halflings-regular-4.html
+Content Type: text/html
+
+Uri: https://www.eastmagic.com/fonts/glyphicons-halflings-regular.html
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\fonts\glyphicons-halflings-regular.html
+Content Type: text/html
+
+Uri: https://www.eastmagic.com/fonts/glyphicons-halflings-regulard41d.html?
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\fonts\glyphicons-halflings-regulard41d.html
+Content Type: text/html
+
+Uri: https://www.eastmagic.com/full-width.html
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\full-width.html
+Content Type: text/html
+
+Uri: https://www.eastmagic.com/img/client-1.png
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\img\client-1.png
+Content Type: image/png
+
+Uri: https://www.eastmagic.com/img/client-2.png
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\img\client-2.png
+Content Type: image/png
+
+Uri: https://www.eastmagic.com/img/client-3.png
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\img\client-3.png
+Content Type: image/png
+
+Uri: https://www.eastmagic.com/img/client-4.png
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\img\client-4.png
+Content Type: image/png
+
+Uri: https://www.eastmagic.com/img/client-5.png
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\img\client-5.png
+Content Type: image/png
+
+Uri: https://www.eastmagic.com/img/client-6.png
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\img\client-6.png
+Content Type: image/png
+
+Uri: https://www.eastmagic.com/img/monster.png
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\img\monster.png
+Content Type: image/png
+
+Uri: https://www.eastmagic.com/img/portfolio_1.png
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\img\portfolio_1.png
+Content Type: image/png
+
+Uri: https://www.eastmagic.com/img/portfolio_2.png
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\img\portfolio_2.png
+Content Type: image/png
+
+Uri: https://www.eastmagic.com/img/portfolio_3.png
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\img\portfolio_3.png
+Content Type: image/png
+
+Uri: https://www.eastmagic.com/img/portfolio_4.png
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\img\portfolio_4.png
+Content Type: image/png
+
+Uri: https://www.eastmagic.com/img/portfolio_5.png
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\img\portfolio_5.png
+Content Type: image/png
+
+Uri: https://www.eastmagic.com/img/portfolio_6.png
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\img\portfolio_6.png
+Content Type: image/png
+
+Uri: https://www.eastmagic.com/img/post1.png
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\img\post1.png
+Content Type: image/png
+
+Uri: https://www.eastmagic.com/img/post2.png
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\img\post2.png
+Content Type: image/png
+
+Uri: https://www.eastmagic.com/img/post3.png
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\img\post3.png
+Content Type: image/png
+
+Uri: https://www.eastmagic.com/img/section-bg.png
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\img\section-bg.png
+Content Type: image/png
+
+Uri: https://www.eastmagic.com/img/slide/slide1.png
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\img\slide\slide1.png
+Content Type: image/png
+
+Uri: https://www.eastmagic.com/img/slide/slide2.png
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\img\slide\slide2.png
+Content Type: image/png
+
+Uri: https://www.eastmagic.com/img/slide/slide3.png
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\img\slide\slide3.png
+Content Type: image/png
+
+Uri: https://www.eastmagic.com/index.html
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\index.html
+Content Type: text/html
+
+Uri: https://www.eastmagic.com/js/banzhow.js
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\js\banzhow.js
+Content Type: application/javascript
+
+Uri: https://www.eastmagic.com/js/bootstrap.js
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\js\bootstrap.js
+Content Type: application/javascript
+
+Uri: https://www.eastmagic.com/js/jquery-1.10.2.js
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\js\jquery-1.10.2.js
+Content Type: application/javascript
+
+Uri: https://www.eastmagic.com/js/plugins.js
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\js\plugins.js
+Content Type: application/javascript
+
+Uri: https://www.eastmagic.com/js/switcher/switcher.css
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\js\switcher\switcher.css
+Content Type: text/css
+
+Uri: https://www.eastmagic.com/js/switcher/switcher.js
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\js\switcher\switcher.js
+Content Type: application/javascript
+
+Uri: https://www.eastmagic.com/portfolio-1-col.html
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\portfolio-1-col.html
+Content Type: text/html
+
+Uri: https://www.eastmagic.com/portfolio-2-col.html
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\portfolio-2-col.html
+Content Type: text/html
+
+Uri: https://www.eastmagic.com/portfolio-3-col.html
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\portfolio-3-col.html
+Content Type: text/html
+
+Uri: https://www.eastmagic.com/portfolio-item.html
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\portfolio-item.html
+Content Type: text/html
+
+Uri: https://www.eastmagic.com/services.html
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\services.html
+Content Type: text/html
+
+Uri: https://www.eastmagic.com/sidebar.html
+File Name: C:\Users\HP\Desktop\indirilen websiteler\www.eastmagic.com\sidebar.html
+Content Type: text/html
+
